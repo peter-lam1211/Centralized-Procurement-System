@@ -1,0 +1,34 @@
+Admin:
+ permission:
+ - '*'
+
+Accounting User:
+ permission:
+ - accountingModule.access
+
+Restaurant Manager:
+ permission:
+ - restaurantModule.access
+
+
+Purchase Manager:
+ permission:
+ - purchaseModule.access
+
+
+Category Manager:
+ permission:
+ - inventoryModule.access
+ - supplier.management
+ - item.create
+ - itemCategory.management
+ - item.edit
+ - item.delete
+
+
+Warehouse Clerk:
+ permission:
+ - inventoryModule.access
+ - deliveryNote.generate
+ - item.update_stock
+ 
