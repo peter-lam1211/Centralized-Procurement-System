@@ -25,3 +25,9 @@ The application is organized into several key modules for modularity and maintai
 
 - Visual Studio 2019/2022 (with .NET desktop development workload)
 - MySQL Server
+
+## UI showcase -- partial
+<img width="1453" height="776" alt="image" src="https://github.com/user-attachments/assets/52e4b6d9-54c7-4064-9e79-6f85f688de35" />
+<img width="1455" height="774" alt="image" src="https://github.com/user-attachments/assets/db12bce3-33e6-4684-9478-c8b9a2bda47e" />
+<img width="1455" height="774" alt="image" src="https://github.com/user-attachments/assets/124c4815-15cb-4173-9792-5b8bec2121c9" />
+
